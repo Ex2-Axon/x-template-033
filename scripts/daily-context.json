@@ -1,0 +1,47 @@
+{
+  "day": 33,
+  "date": "2026-05-30",
+  "version": "1.33.0",
+  "project_name": "x-template-033",
+  "theme": {
+    "name": "Synthwave",
+    "style": "synthwave",
+    "mood": "electric, retro, neon, 80s"
+  },
+  "palette": {
+    "background": "#0a0015",
+    "surface": "#120025",
+    "primary": "#f72585",
+    "accent": "#7209b7",
+    "text": "#e0aaff",
+    "muted": "#3a0068"
+  },
+  "typography": {
+    "heading": "Orbitron",
+    "body": "Rajdhani",
+    "size": "large"
+  },
+  "layout": {
+    "structure": "centered",
+    "density": "normal",
+    "border_style": "neon pink glow"
+  },
+  "animation": {
+    "level": "high",
+    "style": "grid scroll, neon pulse, scanlines"
+  },
+  "components": {
+    "hero_text": "DRIVE",
+    "subtitle": "Outrun the future.",
+    "button_label": "IGNITE_",
+    "badge_text": "SYNTHWAVE — ONLINE"
+  },
+  "commit_message": "feat: UI Day 33 — Synthwave [fallback]",
+  "source": "fallback",
+  "selected_component": {
+    "category": "Buttons",
+    "component": "Deri-Kurniawan_moody-bulldog-20.html",
+    "path": "C:\\Users\\User\\Documents\\GitHub\\Axon\\x-components\\Buttons\\Deri-Kurniawan_moody-bulldog-20.html",
+    "content": "<!-- Kurniawan  - Tags:  -->\n<button\n  class=\"relative py-2 px-8 text-black text-base font-bold nded-full overflow-hidden bg-white rounded-full transition-all duration-400 ease-in-out shadow-md hover:scale-105 hover:text-white hover:shadow-lg active:scale-90 before:absolute before:top-0 before:-left-full before:w-full before:h-full before:bg-gradient-to-r before:from-blue-500 before:to-blue-300 before:transition-all before:duration-500 before:ease-in-out before:z-[-1] before:rounded-full hover:before:left-0\"\n>\n  HOVER ME!\n</button>"
+  }
+}
